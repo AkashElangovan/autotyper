@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import messagebox
 import webbrowser  # To open the GitHub link in a browser
 
-
+#main
 class AutoTyper:
     def __init__(self, text, wpm, trigger_key):
         self.text = text
