@@ -5,7 +5,7 @@ import time
 import tkinter as tk
 from tkinter import messagebox
 import webbrowser  
-#main
+#main code
 class AutoTyper:
     def __init__(self, text, wpm, trigger_key):
         self.text = text
