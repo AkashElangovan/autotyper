@@ -29,3 +29,6 @@ Use the .exe or run the code
 ```
 python typer.py
 ```
+#WIP
+make the WPM work properly
+make a key to termanate the corrent process
